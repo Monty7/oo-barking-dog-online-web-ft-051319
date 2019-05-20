@@ -1,11 +1,11 @@
 # Your code goes here!
 class Dog 
-  def name=()
+  def name=(name)
     @get_name = name
 end
 
   def name
-    @name
+    @get_name
   end
 
   def bark
